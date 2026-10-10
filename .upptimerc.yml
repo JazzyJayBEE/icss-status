@@ -2,9 +2,43 @@ owner: JazzyJayBEE
 repo: icss-status
 secrets:
   - SECRET_SITE_01
+  - SECRET_SITE_02
+  - SECRET_SITE_03
+  - SECRET_SITE_04
+  - SECRET_SITE_05
+  - SECRET_SITE_06
+  - SECRET_SITE_07
 sites:
+  - name: ICSS Storefront
+    url: https://icssinc.com/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: All Rights Reserved
   - name: Hosted site 01
-    url: $SECRET_SITE_01
+    url: https://$SECRET_SITE_01/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Privacy Policy
+  - name: Hosted site 02
+    url: https://$SECRET_SITE_02/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Contact Us
+  - name: Hosted site 03
+    url: https://$SECRET_SITE_03/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Privacy Policy
+  - name: Hosted site 04
+    url: https://$SECRET_SITE_04/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Copyright
+  - name: Hosted site 05
+    url: https://$SECRET_SITE_05/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Software Solutions
+  - name: Hosted site 06
+    url: https://$SECRET_SITE_06/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: All Rights Reserved
+  - name: Hosted site 07
+    url: https://$SECRET_SITE_07/
     icon: https://icssinc.com/favicon.ico
     __dangerous__body_down_if_text_missing: Privacy Policy
 status-website:
