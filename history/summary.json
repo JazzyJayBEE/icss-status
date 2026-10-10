@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_01",
     "icon": "https://icssinc.com/favicon.ico",
     "slug": "hosted-site-01",
-    "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
+    "time": 855,
+    "timeDay": 855,
+    "timeWeek": 855,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2026-10-10": 28
+      "2026-10-10": 32
     }
   }
 ]
