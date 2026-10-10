@@ -5,16 +5,18 @@
     "icon": "https://icssinc.com/favicon.ico",
     "slug": "hosted-site-01",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "66.71%",
+    "uptimeDay": "66.71%",
+    "uptimeWeek": "66.71%",
+    "uptimeMonth": "66.71%",
+    "uptimeYear": "66.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-10": 0
+    }
   }
 ]
