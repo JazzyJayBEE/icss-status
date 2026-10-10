@@ -1,22 +1,160 @@
 [
   {
+    "name": "ICSS Storefront",
+    "url": "https://icssinc.com/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "icss-storefront",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1424,
+    "timeDay": 1424,
+    "timeWeek": 1424,
+    "timeMonth": 1424,
+    "timeYear": 1424,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Hosted site 01",
-    "url": "$SECRET_SITE_01",
+    "url": "https://$SECRET_SITE_01/",
     "icon": "https://icssinc.com/favicon.ico",
     "slug": "hosted-site-01",
     "status": "up",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
-    "time": 855,
-    "timeDay": 855,
-    "timeWeek": 855,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "uptime": "27.11%",
+    "uptimeDay": "27.11%",
+    "uptimeWeek": "27.11%",
+    "uptimeMonth": "27.11%",
+    "uptimeYear": "27.11%",
+    "time": 867,
+    "timeDay": 867,
+    "timeWeek": 867,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2026-10-10": 32
+    }
+  },
+  {
+    "name": "Hosted site 02",
+    "url": "https://$SECRET_SITE_02/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-02",
+    "status": "down",
+    "uptime": "13.41%",
+    "uptimeDay": "13.41%",
+    "uptimeWeek": "13.41%",
+    "uptimeMonth": "13.41%",
+    "uptimeYear": "13.41%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 1
+    }
+  },
+  {
+    "name": "Hosted site 03",
+    "url": "https://$SECRET_SITE_03/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-03",
+    "status": "down",
+    "uptime": "16.62%",
+    "uptimeDay": "16.62%",
+    "uptimeWeek": "16.62%",
+    "uptimeMonth": "16.62%",
+    "uptimeYear": "16.62%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 1
+    }
+  },
+  {
+    "name": "Hosted site 04",
+    "url": "https://$SECRET_SITE_04/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-04",
+    "status": "down",
+    "uptime": "20.19%",
+    "uptimeDay": "20.19%",
+    "uptimeWeek": "20.19%",
+    "uptimeMonth": "20.19%",
+    "uptimeYear": "20.19%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 1
+    }
+  },
+  {
+    "name": "Hosted site 05",
+    "url": "https://$SECRET_SITE_05/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-05",
+    "status": "down",
+    "uptime": "25.59%",
+    "uptimeDay": "25.59%",
+    "uptimeWeek": "25.59%",
+    "uptimeMonth": "25.59%",
+    "uptimeYear": "25.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 1
+    }
+  },
+  {
+    "name": "Hosted site 06",
+    "url": "https://$SECRET_SITE_06/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-06",
+    "status": "down",
+    "uptime": "34.63%",
+    "uptimeDay": "34.63%",
+    "uptimeWeek": "34.63%",
+    "uptimeMonth": "34.63%",
+    "uptimeYear": "34.63%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 0
+    }
+  },
+  {
+    "name": "Hosted site 07",
+    "url": "https://$SECRET_SITE_07/",
+    "icon": "https://icssinc.com/favicon.ico",
+    "slug": "hosted-site-07",
+    "status": "down",
+    "uptime": "62.39%",
+    "uptimeDay": "62.39%",
+    "uptimeWeek": "62.39%",
+    "uptimeMonth": "62.39%",
+    "uptimeYear": "62.39%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-10": 0
     }
   }
 ]
