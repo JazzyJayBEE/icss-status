@@ -41,6 +41,10 @@ sites:
     url: https://$SECRET_SITE_07/
     icon: https://icssinc.com/favicon.ico
     __dangerous__body_down_if_text_missing: Privacy Policy
+  - name: Hosted site 08
+    url: https://$SECRET_SITE_08/
+    icon: https://icssinc.com/favicon.ico
+    __dangerous__body_down_if_text_missing: Privacy Policy
 status-website:
   baseUrl: /icss-status
   name: ICSS Hosting Status
