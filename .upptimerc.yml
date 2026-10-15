@@ -8,6 +8,7 @@ secrets:
   - SECRET_SITE_05
   - SECRET_SITE_06
   - SECRET_SITE_07
+  - SECRET_SITE_08
 sites:
   - name: ICSS Storefront
     url: https://icssinc.com/
