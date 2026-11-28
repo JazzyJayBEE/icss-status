@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 668,
     "timeDay": 544,
-    "timeWeek": 561,
-    "timeMonth": 702,
+    "timeWeek": 600,
+    "timeMonth": 711,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "99.95%",
     "time": 760,
     "timeDay": 814,
-    "timeWeek": 700,
-    "timeMonth": 738,
+    "timeWeek": 699,
+    "timeMonth": 733,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2026-10-10": 32
@@ -50,8 +50,8 @@
     "uptimeYear": "99.92%",
     "time": 1735,
     "timeDay": 1632,
-    "timeWeek": 1595,
-    "timeMonth": 1670,
+    "timeWeek": 1573,
+    "timeMonth": 1660,
     "timeYear": 1735,
     "dailyMinutesDown": {
       "2026-10-10": 56
@@ -70,8 +70,8 @@
     "uptimeYear": "99.92%",
     "time": 675,
     "timeDay": 728,
-    "timeWeek": 570,
-    "timeMonth": 619,
+    "timeWeek": 527,
+    "timeMonth": 615,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2026-10-10": 56
@@ -90,8 +90,8 @@
     "uptimeYear": "99.92%",
     "time": 232,
     "timeDay": 262,
-    "timeWeek": 204,
-    "timeMonth": 224,
+    "timeWeek": 199,
+    "timeMonth": 220,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-10-10": 56
@@ -110,8 +110,8 @@
     "uptimeYear": "99.92%",
     "time": 201,
     "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 201,
+    "timeWeek": 238,
+    "timeMonth": 199,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-10-10": 56
@@ -122,19 +122,20 @@
     "url": "https://$SECRET_SITE_06/",
     "icon": "https://icssinc.com/favicon.ico",
     "slug": "hosted-site-06",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 412,
-    "timeDay": 508,
-    "timeWeek": 371,
-    "timeMonth": 375,
-    "timeYear": 412,
+    "time": 405,
+    "timeDay": 296,
+    "timeWeek": 310,
+    "timeMonth": 359,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-10-10": 55
+      "2026-10-10": 55,
+      "2026-11-28": 0
     }
   },
   {
@@ -150,8 +151,8 @@
     "uptimeYear": "99.92%",
     "time": 717,
     "timeDay": 623,
-    "timeWeek": 687,
-    "timeMonth": 652,
+    "timeWeek": 705,
+    "timeMonth": 649,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2026-10-10": 55
@@ -163,15 +164,15 @@
     "icon": "https://icssinc.com/favicon.ico",
     "slug": "hosted-site-08",
     "status": "up",
-    "uptime": "95.97%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.97%",
+    "uptimeYear": "96.06%",
     "time": 834,
     "timeDay": 929,
-    "timeWeek": 830,
-    "timeMonth": 802,
+    "timeWeek": 821,
+    "timeMonth": 797,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-10-15": 107,
